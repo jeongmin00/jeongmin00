@@ -65,15 +65,6 @@
 
 <br/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=jeongmin00&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=a50034&icon_color=a50034"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeongmin00&layout=compact&hide_border=true&title_color=a50034"/>
-</div>
-
-<br/>
-
 ## 📫 Contact
 
 <a href="mailto:milk001123@naver.com"><img src="https://img.shields.io/badge/Email-milk001123%40naver.com-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>
